@@ -11,11 +11,18 @@ This project presents an analysis of **Atliq Hardwares'** sales performance over
 
 ## Key Files
 
-- **Customer Sales Performance.pdf**  
-  This document contains customer-specific sales data for the years 2019, 2020, and 2021. It shows the growth of major customers like Amazon, Flipkart, and BestBuy, providing percentage increases in sales performance over time.
 
-- **P&L by Fiscal Year.pdf**  
-  This document provides an overview of the Profit and Loss (P&L) statements by fiscal year. It includes metrics such as net sales, COGS, and gross margin percentages for each quarter of 2019, 2020, and 2021. The report details financial performance across all regions.
+Customer Sales Performance.pdf
+Customer-specific sales data from 2019–2021, tracking growth in major customers like Amazon, Flipkart, and BestBuy.
+
+P&L by Fiscal Year.pdf
+A detailed Profit and Loss statement by fiscal year, covering net sales, COGS, and gross margins for each quarter.
+
+Market Performance vs Target.pdf
+Visualizing the 2021 market performance against targets, revealing an 8.40% overall shortfall across regions. Key markets like India and the USA showed significant sales growth but fell short of targets.
+
+P&L by Markets.pdf
+A region-specific Profit and Loss analysis for 2021, detailing net sales, COGS, gross margins, and gross margin percentages for individual countries, such as France with the highest GM% (43.2%) and Germany with the lowest GM% (26.2%).
 
 ## Key Metrics
 
